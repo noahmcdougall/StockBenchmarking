@@ -1,0 +1,6 @@
+## Ignores files with info I'd just rather not be on github ##
+PullDataFromAlphaVantage.py
+DatabaseConnection.py
+
+## Ignores pycache ##
+__pycache__
